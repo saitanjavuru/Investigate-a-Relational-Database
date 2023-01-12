@@ -1,4 +1,4 @@
-# Investigate a Relational Datbase
+# Investigate a Relational Database
 
 Udacity Data Science with Python - SQL Project
 
